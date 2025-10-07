@@ -1,0 +1,5 @@
+{
+  "name": "Learnify: The Modern E-Learning Platform",
+  "description": "A modern full-stack E-learning web application that allows users to register, browse courses, track progress, and take quizzes. This is the frontend implementation using React, TypeScript, and Tailwind CSS, with a mocked backend to simulate functionality.",
+  "requestFramePermissions": []
+}
